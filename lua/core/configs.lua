@@ -3,7 +3,7 @@ vim.wo.number = true
 vim.wo.relativenumber = true
 
 -- Colors
--- vim.opt.cursorline = true           
+-- vim.opt.cursorline = true
 vim.opt.termguicolors = true
 
 -- Mouse
